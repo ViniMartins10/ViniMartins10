@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" width="100%" alt="Vinicius Martins — Backend Developer" />
+  <img src="header.svg" width="100%" alt="Vinicius Martins — Backend Developer" />
 </div>
 
 <p align="center">
