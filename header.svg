@@ -1,0 +1,26 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vinicius Martins — Backend Developer</title>
+  <desc id="desc">A clean dark-blue banner introducing Vinicius Martins and his focus on .NET, APIs, and cloud computing.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1220"/>
+      <stop offset="0.55" stop-color="#14284A"/>
+      <stop offset="1" stop-color="#0B5CAD"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#60A5FA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="24" fill="url(#background)"/>
+  <circle cx="1090" cy="20" r="190" fill="#38BDF8" fill-opacity="0.08"/>
+  <circle cx="1160" cy="235" r="125" fill="#93C5FD" fill-opacity="0.07"/>
+  <rect x="72" y="59" width="6" height="142" rx="3" fill="url(#accent)"/>
+  <text x="108" y="115" fill="#F8FAFC" font-family="Segoe UI, Arial, sans-serif" font-size="52" font-weight="700">Vinicius Martins</text>
+  <text x="110" y="157" fill="#BAE6FD" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="500">Backend Developer · Junior Systems Analyst</text>
+  <text x="110" y="194" fill="#CBD5E1" font-family="Segoe UI, Arial, sans-serif" font-size="19">C# · .NET · APIs · SQL · Cloud Computing · AWS</text>
+  <g transform="translate(1015 90)">
+    <rect width="88" height="76" rx="18" fill="#FFFFFF" fill-opacity="0.08" stroke="#7DD3FC" stroke-opacity="0.4"/>
+    <text x="44" y="50" text-anchor="middle" fill="#E0F2FE" font-family="Consolas, monospace" font-size="28" font-weight="700">{ }</text>
+  </g>
+</svg>
