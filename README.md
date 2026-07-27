@@ -53,9 +53,14 @@ My day-to-day work includes developing and maintaining internal applications, wr
 ## GitHub Stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ViniMartins10&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Vinicius Martins GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMartins10&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Most used languages" />
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ViniMartins10&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniMartins10&layout=compact&hide_border=true)
+
 </div>
+
+<sub>Language statistics reflect public repository usage and do not represent skill level.</sub>
 
 <sub>Language statistics reflect public repository usage and do not represent skill level.</sub>
 
